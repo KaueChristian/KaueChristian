@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👩🏻‍💻 Kauê Firmo
 
-<!--
-**KaueChristian/KaueChristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor BackEnd`**
 
-Here are some ideas to get you started:
+Me chamo Kauê, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio no Colégio Metatech. Atualmente, estou cursando Egenharia de Software na Unigoías(Centro Universitário de Goiás). Sou apaixonado por tecnologia e busco sempre desenvolver a mim mesmo, focando em realizar projetos práticos e produtivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+          
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauechristian&show_icons=true&theme=tokyonight&include_all_commits=True)
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauechristian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
