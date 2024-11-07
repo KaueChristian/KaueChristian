@@ -58,7 +58,7 @@ Me chamo Kauê, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médi
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauechristian&show_icons=true&theme=tokyonight&include_all_commits=True)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueChristian&show_icons=true&theme=tokyonight&include_all_commits=True)
 
 <img 
       align="left" 
