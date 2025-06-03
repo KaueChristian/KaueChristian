@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Kauê, tenho 19 anos e sou natural do Amazonas. Atualmente, estou cursando Engenharia de Software na Unigoiaa(Centro Universitário de Goiás). Sou apaixonado por tecnologia e busco sempre desenvolver a mim mesmo, focando em realizar projetos práticos e produtivos.
+Me chamo Kauê, tenho 19 anos e sou natural do Amazonas. Atualmente, estou cursando Engenharia de Software na Unigoiás(Centro Universitário de Goiás). Sou apaixonado por tecnologia e busco sempre desenvolver a mim mesmo, focando em realizar projetos práticos e produtivos.
 
 ---
 
