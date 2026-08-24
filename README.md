@@ -73,11 +73,11 @@ Manutenção de sistemas legados e tratamento de erros.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=KaueChristian&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=KaueChristian&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueChristian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueChristian&theme=tokyonight&layout=compact" />
 </p>
 
 <p align="center">
@@ -85,8 +85,10 @@ Manutenção de sistemas legados e tratamento de erros.
 </p>
 
 <p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=KaueChristian&theme=tokyonight&no-frame=true" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=KaueChristian&theme=tokyonight" />
 </p>
+
+> Caso as imagens acima não carreguem, é instabilidade temporária desses serviços gratuitos (não é erro no README). Basta atualizar a página do GitHub em alguns minutos.
 
 <br/>
 
